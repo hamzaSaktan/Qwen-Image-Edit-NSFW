@@ -1,0 +1,12 @@
+diffusers==0.37.1
+torchao==0.10.0
+
+transformers
+accelerate
+safetensors
+sentencepiece
+dashscope
+torchvision
+peft
+requests
+spaces
