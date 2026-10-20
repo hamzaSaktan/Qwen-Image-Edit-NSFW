@@ -12,3 +12,11 @@ tags:
 - nsfw
 short_description: Uncensored Image editing tool Edit image with a text prompt
 ---
+
+# Create and activate Python environment
+python -m venv env
+source env/bin/activate
+
+# Install dependencies and run
+pip install -r requirements.txt
+python app.py
